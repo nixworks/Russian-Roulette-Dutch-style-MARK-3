@@ -4,7 +4,7 @@ Russian Roulette Dutch style (MARK3) | 俄羅斯輪盤賭荷蘭風格 (標記3)
 #
 
 # 擾
-# 亂
+ 亂
 # 下
 # 丘
 # 腦
