@@ -11,5 +11,6 @@ Russian Roulette Dutch style (MARK3) | 俄羅斯輪盤賭荷蘭風格 (標記3)
 #
 #
 đi đi mau
+Старик горы
 
 
