@@ -1,4 +1,4 @@
-# Russian-Roulette-Dutch-style-MARK-3
+# Russian Roulette Dutch style MARK3
 
 你將在今天和你的餘生之間被殺死
 
